@@ -1,5 +1,8 @@
 # The following list comprehension exercises will make use of the 
 # defined Human class. 
+
+from math import sqrt
+
 class Human:
     def __init__(self, name, age):
         self.name = name
